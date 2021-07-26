@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-91523/Yaojiong
-"""
-
 
 import requests
 from bs4 import BeautifulSoup
